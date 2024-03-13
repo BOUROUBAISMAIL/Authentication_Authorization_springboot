@@ -1,8 +1,8 @@
-package com.sergio.jwt.backend.mappers;
+package com.ismail.jwt.backend.mappers;
 
-import com.sergio.jwt.backend.dtos.SignUpDto;
-import com.sergio.jwt.backend.dtos.UserDto;
-import com.sergio.jwt.backend.entites.User;
+import com.ismail.jwt.backend.dtos.SignUpDto;
+import com.ismail.jwt.backend.dtos.UserDto;
+import com.ismail.jwt.backend.entites.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.config;
+package com.ismail.jwt.backend.config;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

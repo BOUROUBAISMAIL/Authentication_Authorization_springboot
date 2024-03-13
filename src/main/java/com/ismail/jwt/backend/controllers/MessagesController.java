@@ -1,6 +1,6 @@
-package com.sergio.jwt.backend.controllers;
+package com.ismail.jwt.backend.controllers;
 
-import com.sergio.jwt.backend.dtos.MessageDto;
+import com.ismail.jwt.backend.dtos.MessageDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.enums;
+package com.ismail.jwt.backend.enums;
 
 import org.springframework.security.core.GrantedAuthority;
 

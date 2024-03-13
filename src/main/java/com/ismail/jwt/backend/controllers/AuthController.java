@@ -1,10 +1,10 @@
-package com.sergio.jwt.backend.controllers;
+package com.ismail.jwt.backend.controllers;
 
-import com.sergio.jwt.backend.config.UserAuthenticationProvider;
-import com.sergio.jwt.backend.dtos.CredentialsDto;
-import com.sergio.jwt.backend.dtos.SignUpDto;
-import com.sergio.jwt.backend.dtos.UserDto;
-import com.sergio.jwt.backend.services.UserService;
+import com.ismail.jwt.backend.config.UserAuthenticationProvider;
+import com.ismail.jwt.backend.dtos.CredentialsDto;
+import com.ismail.jwt.backend.dtos.SignUpDto;
+import com.ismail.jwt.backend.dtos.UserDto;
+import com.ismail.jwt.backend.services.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

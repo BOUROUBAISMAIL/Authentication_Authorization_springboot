@@ -1,6 +1,6 @@
-package com.sergio.jwt.backend.repositories;
+package com.ismail.jwt.backend.repositories;
 
-import com.sergio.jwt.backend.entites.User;
+import com.ismail.jwt.backend.entites.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

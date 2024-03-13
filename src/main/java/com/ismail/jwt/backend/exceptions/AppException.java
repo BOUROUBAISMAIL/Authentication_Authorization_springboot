@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.exceptions;
+package com.ismail.jwt.backend.exceptions;
 
 import org.springframework.http.HttpStatus;
 

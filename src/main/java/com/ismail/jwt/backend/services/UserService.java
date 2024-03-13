@@ -1,13 +1,13 @@
-package com.sergio.jwt.backend.services;
+package com.ismail.jwt.backend.services;
 
-import com.sergio.jwt.backend.dtos.CredentialsDto;
-import com.sergio.jwt.backend.dtos.SignUpDto;
-import com.sergio.jwt.backend.dtos.UserDto;
-import com.sergio.jwt.backend.entites.User;
-import com.sergio.jwt.backend.enums.Role;
-import com.sergio.jwt.backend.exceptions.AppException;
-import com.sergio.jwt.backend.mappers.UserMapper;
-import com.sergio.jwt.backend.repositories.UserRepository;
+import com.ismail.jwt.backend.dtos.CredentialsDto;
+import com.ismail.jwt.backend.dtos.SignUpDto;
+import com.ismail.jwt.backend.dtos.UserDto;
+import com.ismail.jwt.backend.entites.User;
+import com.ismail.jwt.backend.enums.Role;
+import com.ismail.jwt.backend.exceptions.AppException;
+import com.ismail.jwt.backend.mappers.UserMapper;
+import com.ismail.jwt.backend.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.crypto.password.PasswordEncoder;

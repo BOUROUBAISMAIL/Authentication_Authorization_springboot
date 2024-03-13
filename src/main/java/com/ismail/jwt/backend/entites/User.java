@@ -1,6 +1,6 @@
-package com.sergio.jwt.backend.entites;
+package com.ismail.jwt.backend.entites;
 
-import com.sergio.jwt.backend.enums.Role;
+import com.ismail.jwt.backend.enums.Role;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;
 import lombok.AllArgsConstructor;

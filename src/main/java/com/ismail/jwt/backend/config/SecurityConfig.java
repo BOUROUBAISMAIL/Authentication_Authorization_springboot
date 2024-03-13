@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.config;
+package com.ismail.jwt.backend.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;

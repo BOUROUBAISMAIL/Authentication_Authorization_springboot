@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.config;
+package com.ismail.jwt.backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

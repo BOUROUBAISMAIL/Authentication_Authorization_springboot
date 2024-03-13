@@ -1,4 +1,4 @@
-package com.sergio.jwt.backend.dtos;
+package com.ismail.jwt.backend.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

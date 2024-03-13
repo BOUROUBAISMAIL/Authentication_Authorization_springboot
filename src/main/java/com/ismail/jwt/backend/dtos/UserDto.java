@@ -1,6 +1,6 @@
-package com.sergio.jwt.backend.dtos;
+package com.ismail.jwt.backend.dtos;
 
-import com.sergio.jwt.backend.enums.Role;
+import com.ismail.jwt.backend.enums.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
